@@ -1,0 +1,8 @@
+.bilets__place {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 400px;
+    padding: 0 15px 5px;
+    font-size: 12px;
+}

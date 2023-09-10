@@ -1,0 +1,11 @@
+.currency__rub {
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    min-width: 33.2%; 
+    cursor: pointer;
+}
+
+.currency__rub:hover {
+    border: 2px solid #1E90FF;
+    background-color: #ccf1fc81;
+}

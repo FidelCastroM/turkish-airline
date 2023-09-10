@@ -1,0 +1,7 @@
+.currency {
+    width: 240px;
+    border-radius: 8px;
+    height: 40px;
+    margin: 15px auto 30px;
+    display: flex;
+}

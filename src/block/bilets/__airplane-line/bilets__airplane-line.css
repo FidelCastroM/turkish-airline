@@ -1,0 +1,9 @@
+.bilets__airplane-line {
+    display: block;
+    unicode-bidi: isolate;
+    overflow: hidden;
+    border: none;
+    background-color: gray;
+    width: 160px;
+    height: 1px;
+}

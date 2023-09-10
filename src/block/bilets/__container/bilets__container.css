@@ -1,0 +1,12 @@
+.bilets__container {
+    display: flex;
+    height: 162px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    background-color: white;
+    border: 2px solid #f0f0f0;
+}
+
+.bilets__container:last-child {
+    margin: 0;
+}

@@ -1,0 +1,101 @@
+[
+    {
+        "id" : 1,
+        "price": 23471,
+        "stors": 1,
+        "time departure": "19:07",
+        "time arrival": "22:14",
+        "departure": "VVO, Владивосток",
+        "arrival": "EKT, Екатеринбург",
+        "date departure": "29 окт 2022, Чт",
+        "date arrival": "29 окт 2022, Чт"
+    },
+    {
+        "id" : 1,
+        "price": 21471,
+        "stors": 1,
+        "time departure": "12:53",
+        "time arrival": "15:24",
+        "departure": "VVO, Владивосток",
+        "arrival": "EKT, Екатеринбург",
+        "date departure": "29 окт 2022, Чт",
+        "date arrival": "29 окт 2022, Чт"
+    },
+    {
+        "id" : 1,
+        "price": 18471,
+        "stors": 1,
+        "time departure": "14:37",
+        "time arrival": "17:15",
+        "departure": "VVO, Владивосток",
+        "arrival": "EKT, Екатеринбург",
+        "date departure": "29 окт 2022, Чт",
+        "date arrival": "29 окт 2022, Чт"
+    },
+    {
+        "id" : 1,
+        "price": 23471,
+        "stors": 1,
+        "time departure": "19:07",
+        "time arrival": "22:14",
+        "departure": "VVO, Владивосток",
+        "arrival": "EKT, Екатеринбург",
+        "date departure": "29 окт 2022, Чт",
+        "date arrival": "29 окт 2022, Чт"
+    },
+    {
+        "id" : 1,
+        "price": 23471,
+        "stors": 1,
+        "time departure": "19:07",
+        "time arrival": "22:14",
+        "departure": "VVO, Владивосток",
+        "arrival": "EKT, Екатеринбург",
+        "date departure": "29 окт 2022, Чт",
+        "date arrival": "29 окт 2022, Чт"
+    },
+    {
+        "id" : 1,
+        "price": 23471,
+        "stors": 1,
+        "time departure": "19:07",
+        "time arrival": "22:14",
+        "departure": "VVO, Владивосток",
+        "arrival": "EKT, Екатеринбург",
+        "date departure": "29 окт 2022, Чт",
+        "date arrival": "29 окт 2022, Чт"
+    },
+    {
+        "id" : 1,
+        "price": 23471,
+        "stors": 1,
+        "time departure": "19:07",
+        "time arrival": "22:14",
+        "departure": "VVO, Владивосток",
+        "arrival": "EKT, Екатеринбург",
+        "date departure": "29 окт 2022, Чт",
+        "date arrival": "29 окт 2022, Чт"
+    },
+    {
+        "id" : 1,
+        "price": 23471,
+        "stors": 1,
+        "time departure": "19:07",
+        "time arrival": "22:14",
+        "departure": "VVO, Владивосток",
+        "arrival": "EKT, Екатеринбург",
+        "date departure": "29 окт 2022, Чт",
+        "date arrival": "29 окт 2022, Чт"
+    },
+    {
+        "id" : 1,
+        "price": 23471,
+        "stors": 1,
+        "time departure": "19:07",
+        "time arrival": "22:14",
+        "departure": "VVO, Владивосток",
+        "arrival": "EKT, Екатеринбург",
+        "date departure": "29 окт 2022, Чт",
+        "date arrival": "29 окт 2022, Чт"
+    }
+]

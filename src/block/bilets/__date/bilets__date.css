@@ -1,0 +1,9 @@
+.bilets__date {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 400px;
+    padding: 0 15px 0;
+    font-size: 12px;
+    color: grey;
+}
